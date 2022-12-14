@@ -53,8 +53,5 @@ Cài đặt MySQL , nếu máy chưa cài thì có thể tải tại: https://ww
 <li>
 	Run application và table book sẽ tự động được tạo . Giờ có thể thực hiện call API. 
 </li>
-<li>
-
-</li>
 
 </ul>
