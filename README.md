@@ -1,6 +1,6 @@
 # bookAPI
 Đây là một RESTful API đơn giảm cho web ứng dụng web quản lý sách, gồm các tính năng thêm, cập nhật, xoá và thống kê thông tin sách.
----
+
 # Mô tả chi tiết
 BookAPI sử dụng MySQL bao gồm database có tên là "bookstore", chỉ có một table là "book". Table "book" gồm các cột : id, title, category, author, publisher, publishYear,
 price, amount. Sử dụng Spring data JPA để giao tiếp với cơ sở dữ liệu. BookAPI có các chức năng sau:
@@ -24,7 +24,7 @@ price, amount. Sử dụng Spring data JPA để giao tiếp với cơ sở dữ
 
 </li>
 </ul>
----
+
 # Công cụ và Framework
 <ul>
 <li>
