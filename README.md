@@ -43,7 +43,7 @@ Cài đặt MySQL , nếu máy chưa cài thì có thể tải tại: https://ww
 
 </li>
 <li>
-	Trong MySQL workbench , chạy query để tạo các cột và dữ liệu tại file query.txt
+	Trong MySQL workbench , chạy query để tạo dữ liệu tại file query.txt
 </li>
 <li>
 	Tại IDE, mở application.properties để thay đổi username và password phù hợp với cơ sở 
